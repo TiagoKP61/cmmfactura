@@ -196,7 +196,7 @@ Partial Class Facturación
         Me.Btn_add.Name = "Btn_add"
         Me.Btn_add.Size = New System.Drawing.Size(109, 42)
         Me.Btn_add.TabIndex = 9
-        Me.Btn_add.Text = "Adicionar"
+        Me.Btn_add.Text = "Adicionar123"
         Me.Btn_add.UseVisualStyleBackColor = False
         '
         'Btn_Limpar
